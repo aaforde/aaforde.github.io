@@ -11,8 +11,6 @@ const resource = [
   '/404.html',
 
   
-    '/categories/',
-  
     '/tags/',
   
     '/archives/',
@@ -42,7 +40,7 @@ const resource = [
 const allowedDomains = [
   
 
-  'localhost:4000',
+  'aaforde.github.io',
 
   
 

@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/categories/</loc>
-<lastmod>2023-12-26T12:06:43-07:00</lastmod>
+<loc>https://aaforde.github.io/posts/News_NanoLetter/</loc>
+<lastmod>2023-12-24T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/tags/</loc>
-<lastmod>2023-12-26T12:06:43-07:00</lastmod>
+<loc>https://aaforde.github.io/tags/</loc>
+<lastmod>2023-12-26T13:09:39-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/archives/</loc>
-<lastmod>2023-12-26T12:06:43-07:00</lastmod>
+<loc>https://aaforde.github.io/archives/</loc>
+<lastmod>2023-12-26T13:09:39-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/about/</loc>
-<lastmod>2023-12-26T12:06:43-07:00</lastmod>
+<loc>https://aaforde.github.io/about/</loc>
+<lastmod>2023-12-26T13:09:39-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>https://aaforde.github.io/</loc>
+</url>
+<url>
+<loc>https://aaforde.github.io/tags/news/</loc>
 </url>
 </urlset>

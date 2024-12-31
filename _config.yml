@@ -41,7 +41,7 @@ social:
     - https://github.com/aaforde # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-     - https://www.linkedin.com/in/aaron-a-forde
+    # - https://www.linkedin.com/in/aaron-a-forde
 
 # Site Verification Settings
 webmaster_verifications:
@@ -97,7 +97,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "/assets/img/avatar/hawaii.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
